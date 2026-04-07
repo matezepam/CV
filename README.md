@@ -51,4 +51,4 @@ Soy una persona apasionada por la tecnología y el desarrollo de software. Me gu
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/matezepam/CV.git
