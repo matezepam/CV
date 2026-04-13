@@ -1,7 +1,5 @@
 # 👨‍💻 CV 
 
-¡Hola! 👋 Bienvenido a mi repositorio de currículum.
-
 Este proyecto contiene mi **Currículum Vitae** en formato digital, donde presento mi perfil profesional, habilidades, experiencia y proyectos.
 
 ---
