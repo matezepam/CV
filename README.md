@@ -1,4 +1,4 @@
-# 👨‍💻 CV 
+# 👨‍💻 
 
 Este proyecto contiene mi **Currículum Vitae** en formato digital, donde presento mi perfil profesional, habilidades, experiencia y proyectos.
 
